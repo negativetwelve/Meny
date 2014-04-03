@@ -33,7 +33,7 @@ Some rules, notes and best practices to keep in mind in terms of markup and styl
 
 
 ### 3. Initialize
-Next you need create an instance of Meny and tell it which HTML elements to use. This should be done after the **meny.min.js** is included on your page. Example using the HTML above:
+Next you need create an instance of Meny and tell it which HTML elements to use. This should be done after the **meny.js** is included on your page. Example using the HTML above:
 
 ```javascript
 var meny = Meny.create({
